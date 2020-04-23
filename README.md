@@ -6,5 +6,5 @@ This code performs an Abel inversion on a vertical phase strip for a plasma chan
 
 ## plasma-columnn.ipynb
 
-This code contains 2 labeled parts. The first part performs a 3D surface plot of the normalised intensity of a Gaussian Beam.
-The second part plots a 2D shape of a Helium plasma column generated trhough barrier suppression. When plotting, a slider widget is available to easily change the inensity of the gaussian beam to see the change in the shape of the plasma column.
+This code contains 2 labelled parts. The first part plots a 3D surface plot of the normalised intensity of a Gaussian Beam.
+The second part plots the 2D shape of a Helium plasma column generated through barrier suppression. When plotting, a slider widget is available to easily change the inensity of the gaussian beam to see the change in the shape of the plasma column.
